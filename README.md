@@ -3,6 +3,7 @@
 ## 👋 Hi, I’m Kaitlin Zanoni
 
 CISSP | GRC Enthusiast | Threat Intelligence Analyst
+
 Turning frameworks into action—and insights into impact.
 
 ---
