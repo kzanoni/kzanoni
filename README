@@ -29,6 +29,7 @@ Whether supporting red teams, authoring policy, or translating complex security 
 `Learner` • `Developer` • `Arranger` • `Positivity` • `Achiever`
 
 I approach problems with curiosity, structure, and an emphasis on clear communication—often creating templates, flowcharts, and educational tools to simplify and standardize complex processes.
+I'm now in the process of organizing, refining, and publishing these resources here in a structured format, in the hopes that they can potentially support others in the field as well.
 
 ---
 
@@ -44,9 +45,6 @@ MITRE ATT&CK • DREAD • STRIDE • PASTA • Diamond Model of Intrusion Analy
 ---
 
 ## Featured Repositories
-
-Throughout my career, I've created a wide range of cybersecurity documents—checklists, templates, playbooks, and training materials—across various industries and use cases, often to solve immediate problems or fill gaps in security programs.
-I'm now in the process of organizing, refining, and publishing these resources here in a structured format, in the hopes that they can potentially support others in the field as well.
 
 ### [In-Progress: GRC Readiness Repository](https://github.com/yourusername/grc-readiness-repo)  
 A full suite of compliance checklists, security policy templates, flowcharts, and real-world GRC use cases.  
