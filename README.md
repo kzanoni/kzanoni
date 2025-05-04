@@ -10,7 +10,7 @@ Turning frameworks into action—and insights into impact.
 
 ## ✨ About Me
 
-Experienced and energetic cybersecurity professional who bridges technical expertise with strong communication skills, effectively translating complex security concepts into clear, actionable insights for non-technical stakeholders.
+I'm an experienced cybersecurity professional who bridges technical expertise with strong communication skills, effectively translating complex security concepts into clear, actionable insights for non-technical stakeholders.
 Whether supporting red teams, authoring policy, or translating complex security controls for executive leadership, I focus on clarity, alignment, and results.
 
 ---
