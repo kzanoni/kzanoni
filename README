@@ -39,6 +39,7 @@ AWS • Kali Linux • CrowdStrike • Nessus • Splunk • Metasploit • Shod
 
 **Frameworks & Standards:**  
 SOC 2 • ISO/IEC 27001 • NIST SP 800-53 • NIST CSF • HIPAA • PCI DSS • GDPR • CCPA • COBIT • COSO
+MITRE ATT&CK • DREAD • STRIDE • PASTA • Diamond Model of Intrusion Analysis
 
 ---
 
@@ -50,6 +51,12 @@ A full suite of compliance checklists, security policy templates, flowcharts, an
 
 ### [Coming Soon: Risk Assessment Toolkit]  
 Templates and walkthroughs for building a scalable, auditable risk assessment process using real business context.
+
+### [Coming Soon: CTI Operations Toolkit]  
+A practical guide to building intelligence-driven workflows: actor profiles, IOC tracking sheets, collection playbooks, and analysis templates mapped to MITRE ATT&CK.
+
+### [Coming Soon: Security Training & Translation Hub]  
+Field-tested decks, policies, and briefings designed to bridge the gap between technical controls and business understanding—for boards, clients, and non-technical teams.
 
 ---
 
