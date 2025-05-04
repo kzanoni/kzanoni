@@ -45,6 +45,9 @@ MITRE ATT&CK • DREAD • STRIDE • PASTA • Diamond Model of Intrusion Analy
 
 ## Featured Repositories
 
+Throughout my career, I've created a wide range of cybersecurity documents—checklists, templates, playbooks, and training materials—across various industries and use cases, often to solve immediate problems or fill gaps in security programs.
+I'm now in the process of organizing, refining, and publishing these resources here in a structured format, in the hopes that they can potentially support others in the field as well.
+
 ### [In-Progress: GRC Readiness Repository](https://github.com/yourusername/grc-readiness-repo)  
 A full suite of compliance checklists, security policy templates, flowcharts, and real-world GRC use cases.  
 📎 Includes mappings to NIST, ISO, SOC 2, HIPAA, PCI DSS, and more.
