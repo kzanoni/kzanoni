@@ -2,15 +2,14 @@
 
 ## 👋 Hi, I’m Kaitlin Zanoni
 
-CISSP | GRC Enthusiast | Threat Intelligence Analyst
-
+CISSP | GRC Enthusiast | Threat Intelligence Analyst  
 Turning frameworks into action—and insights into impact.
 
 ---
 
 ## ✨ About Me
 
-I'm an experienced cybersecurity professional who bridges technical expertise with strong communication skills, effectively translating complex security concepts into clear, actionable insights for non-technical stakeholders.
+I am an experienced cybersecurity professional who bridges technical expertise with strong communication skills, effectively translating complex security concepts into clear, actionable insights for non-technical stakeholders.
 Whether supporting red teams, authoring policy, or translating complex security controls for executive leadership, I focus on clarity, alignment, and results.
 
 ---
@@ -29,7 +28,7 @@ Whether supporting red teams, authoring policy, or translating complex security 
 **CliftonStrengths Top 5**  
 `Learner` • `Developer` • `Arranger` • `Positivity` • `Achiever`
 
-I approach problems with curiosity, structure, and an emphasis on clear communication—often creating templates, flowcharts, and educational tools to simplify and standardize complex processes.
+I approach problems with curiosity, structure, and an emphasis on clear communication—often creating templates, flowcharts, and educational tools to simplify and standardize complex processes.  
 I'm now in the process of organizing, refining, and publishing these resources here in a structured format, in the hopes that they can potentially support others in the field as well.
 
 ---
