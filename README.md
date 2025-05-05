@@ -45,7 +45,7 @@ Cyber Kill Chain • MITRE ATT&CK • DREAD • STRIDE • PASTA • Diamond Mod
 
 ## 🔓 Featured Repositories
 
-### [In-Progress: GRC Readiness Repository](https://github.com/yourusername/grc-readiness-repo)  
+### [In-Progress: GRC Readiness Repository](https://github.com/kzanoni/GRC-Readiness)  
 A full suite of compliance checklists, security policy templates, flowcharts, and real-world GRC use cases.  
 📎 Includes mappings to NIST, ISO, SOC 2, HIPAA, PCI DSS, and more.
 
